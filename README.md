@@ -1,4 +1,4 @@
-# IniciacionImpresion3D
+# Iniciacion a la Impresion 3D
 
 ## 12 Febrero de 2016
 
