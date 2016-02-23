@@ -23,6 +23,8 @@
 * SLS
 * DLP
 
+![dlp](http://g03.a.alicdn.com/kf/HTB1w9ShIVXXXXXhaFXXq6xXFXXXa/Cost-effective-New-design-desktop-open-source-durable-precise-DIY-DLP-3d-printer-full-kit-excluding.jpg)
+
 [tecnologías](http://www.xataka.com/perifericos/estas-son-las-tecnologias-de-impresion-3d-que-hay-sobre-la-mesa-y-lo-que-puedes-esperar-de-ellas)
 [impresión 3d](http://es.wikipedia.org/wiki/Impresi%C3%B3n_3D)
 
@@ -30,11 +32,23 @@
 
 Origen: el CNC
 
-* RepRap:
+* [RepRap](https://en.wikipedia.org/wiki/RepRap_project): Haciendo prototipos rápidamente
+
+![reprap](https://upload.wikimedia.org/wikipedia/commons/a/a7/First_replication.jpg)
+
+* i1
+
+![i1](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Reprap_Darwin.jpg/330px-Reprap_Darwin.jpg)
+
+* i2
 ![reprap](http://reprap.org/mediawiki/images/thumb/1/1f/Mendel.jpg/800px-Mendel.jpg)
-	* i2
-	* i3
-	* Corexy
+
+* i3
+
+![i3](http://www.filament2print.com/wp-content/uploads/2014/10/Prusa-i3-hphestos-1.jpg)
+
+* Corexy
+![corexy](http://3.bp.blogspot.com/-VABQ72YWnTM/Vf6ekGBm5dI/AAAAAAAAO_4/SzEjMwYfk20/s1600/smartrapcore-02.jpg)
 
 * Delta
 ![reprap delta](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/delta-robot-reprap-helium-frog.jpg)
@@ -42,11 +56,19 @@ Origen: el CNC
 
 ### Modelos comerciales
 
-Makerbot ![makerbot](http://store.makerbot.com/mb-images/store/global/international.jpg)
-ultimaker
-bq
+* Makerbot
+ ![makerbot](http://store.makerbot.com/mb-images/store/global/international.jpg)
+
+* ultimaker
+
+![ultimaker](https://i.ytimg.com/vi/Sz77Tq9xzpM/maxresdefault.jpg)
+
+* bq: witbox
+![witbox](http://www.imprimalia3d.com/sites/default/files/Witbox_3D-printer-yellow-iGo3D.jpg)
 
 ### Kits
+
+![kit](http://www.moebyus.com/images/stories/virtuemart/product/img_3948.jpg)
 
 ##### Filamentos
 
@@ -60,20 +82,42 @@ bq
 Composites:
 
 * Madera
+![madera](http://rascomras.com/store/104-thickbox_leometr/laywoo-d3-madera-filamento-3mm-250gr.jpg)
 * Bronce
+![bronce](http://www.3ders.org/images2014/copperFill_3d-printing-filament-1.jpg)
 * ...
 
-#### Resoluciones
+#### Resoluciones, tamaños
 
-Tamaños, volúmenes,....
+##### Resoluciones 50 micras
+##### Tamaños: 200 mm x 200 mm x 200 mm
 
 ### Fresadoras
 
 [Teoría CNC](http://spainlabs.com/wiki/index.php?title=Fresadoras_CNC)
 
-Cyclone
+[Cyclone](https://github.com/bq/Cyclone-PCB-Factory)
+
+![cyclone](https://i.ytimg.com/vi/jWKOkb-tut8/maxresdefault.jpg)
+
+#### Imprimiendo
+
+##### Software de impresión
+
+######  Componentes:
+
+* Laminadores
+![laminadores](http://tr3sdland.com/wp-content/uploads/2012/12/fillDensity.png)
+
+* Personalizadores (3D)
 
 
+### Programas
+
+* [Cura](http://ultimaker.com/software)
+* [KISSlicer](http://kisslicer.com/)
+* [Pronterface](http://koti.kapsi.fi/~kliment/printrun/)
+* [Repetier-Host](http://www.repetier.com/download/)
 
 #### Herramientas de diseño en 3D
 
@@ -104,8 +148,7 @@ Gcode
 
 #### Simulaciones:
 
-	* Robots en freecad
-
+* Robots en freecad
 
 * Robots por todas partes
 	* Automatización
